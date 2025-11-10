@@ -1,1 +1,8 @@
-
+[
+  {
+    "email": "admin@inventory.com",
+    "password": "admin123456",
+    "role": "admin",
+    "name": "Admin User"
+  }
+]
